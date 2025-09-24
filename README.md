@@ -8,6 +8,10 @@ Currently, I am consolidating my profile in the data field after completing the 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/luis-adri%C3%A1n-jim%C3%A9nez-larios-11542362/)](https://www.linkedin.com/in/luis-adri%C3%A1n-jim%C3%A9nez-larios-11542362/)
 
+## Featured Projects
+[**TripleTen Bootcamp**](https://github.com/huesosad/TripleTen) -
+My projects from this boot camp can demonstrate my abilities in Data Science and Data Analysis.
+
 ## Skills
 
 - **Languages & DB** | Python, SQL, Postgres
